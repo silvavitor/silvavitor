@@ -5,10 +5,6 @@
 
 - 👨🏻‍🎓 Graduated in systems analysis and development at [IFRS](https://ifrs.edu.br/)
 
-- 💬 Ask me about anything, I'm happy to help
-
-- 📫 How to reach me **vitor_fernando@outlook.com.br**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vitor-fernando-da-silva" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
